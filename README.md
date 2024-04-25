@@ -12,7 +12,7 @@ I am passionate about learning and developing myself in IT technologies, especia
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Basic configuration of a VPN                  | Buildind Of An Organsiaton VPN Network|
+| Basic configuration of a VPN and router       | Buildind Of An Organsiaton VPN Network|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
