@@ -5,9 +5,7 @@
 Hello, I'm Cybersecurity and IT Enthusiast that recently graduated, specializing in computer science.I am driven by a passion for protecting digital assets and ensuring the integrity of online environments, I also have a  profound interest in technology and a dedication in solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am passionate about learning and developing myself in IT technologies, especially in the area of computer networking and security. For my  career advancement,I am now eager for the  transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
