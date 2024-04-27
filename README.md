@@ -11,7 +11,7 @@ I am passionate about learning and developing myself in IT technologies, especia
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Basic configuration of a VPN and VLAN network | <a href="https://github.com/Adegbenga-111/Building-An-Organization-VPN-Network">Building-An-Organization-VPN-Network</a>|
+| Basic configuration of a VPN and VLAN network | <a href="https://github.com/Adegbenga-111/Building-An-Organization-VPN-Network-">Building-An-Organization-VPN-Network</a>|
 | Basic configuration of networking devices     | Building Of An Organsiaton VPN Network|
 | Basic configuration of network end point      | Building Of An Organsiaton VPN Network|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
