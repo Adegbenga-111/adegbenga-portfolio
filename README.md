@@ -14,6 +14,7 @@ I am passionate about learning and developing myself in IT technologies, especia
 | Basic configuration of a VPN and VLAN network | <a href="https://github.com/Adegbenga-111/Building-An-Organization-VPN-Network-">Building-An-Organization-VPN-Network</a>|
 | Basic configuration of networking devices     | Building Of An Organsiaton VPN Network|
 | Basic configuration of network end point      | Building Of An Organsiaton VPN Network|
+| Basic Email Analysis for malicious activities |  <a href="https://github.com/Adegbenga-111/Play-book-for-Email-Analysis-For-Phishing-Activities">Play-book-for-Email-Analysis</a>|
 ## Tools
 ### Network
 <div>
@@ -42,3 +43,6 @@ I am passionate about learning and developing myself in IT technologies, especia
 ## Projects
 - Building Of An Organsiaton VPN Network
 - PacketGuard Analytics (NO GOING)
+
+  ## Playbook
+  - Email Analysis For Phishing Activities
