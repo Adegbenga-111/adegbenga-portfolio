@@ -15,7 +15,8 @@ I am passionate about learning and developing myself in IT technologies, especia
 | Basic configuration of networking devices     | Building Of An Organsiaton VPN Network|
 | Basic configuration of network end point      | Building Of An Organsiaton VPN Network|
 | Basic Email Analysis for malicious activities |  <a href="https://github.com/Adegbenga-111/Play-book-for-Email-Analysis-For-Phishing-Activities">Play-book-for-Email-Analysis</a>|
-| Phishing  Detention With Random Forest And Multi-layer-Percetron | <a href="https://colab.research.google.com/drive/1Thv1Lbqc6YPiby1zANItb18lcTXWY-qA?userstoinvite=taiwo.adelaja%40gmail.com&sharingaction=manageaccess&role=writer#scrollTo=Bc5PgZ83Fvsv"> Phishing  Detention With Random Forest And Multi-layer-Percetron </a>|
+| Creating machine learning model with python useing tensor flow | <a href="https://colab.research.google.com/drive/1Thv1Lbqc6YPiby1zANItb18lcTXWY-qA?userstoinvite=taiwo.adelaja%40gmail.com&sharingaction=manageaccess&role=writer#scrollTo=Bc5PgZ83Fvsv"> Phishing  Detention With Random Forest And Multi-layer-Percetron </a>|
+| Creating neuron network with pytorch | Phishing  Detention With Random Forest And Multi-layer-Percetron|
   
 ## Tools
 ### Network
