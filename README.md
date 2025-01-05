@@ -2,7 +2,7 @@
 # Hello, i'm ADELAJA OLUWAGBENGA AYOMIDE 
 <a href="https://www.linkedin.com/in/gbenga-adelaja-8a2173211"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Hello, I'm Cybersecurity and IT Enthusiast that recently graduated, specializing in computer science.I am driven by a passion for protecting digital assets and ensuring the integrity of online environments, I also have a  profound interest in technology and a dedication in solving complex problems.
+Hello, I'm a Cybersecurity and IT Enthusiast that recently graduated, specializing in computer science.I am driven by a passion for protecting digital assets and ensuring the integrity of online environments, I also have a  profound interest in technology and a dedication in solving complex problems.
 
 ## Objective
 I am passionate about learning and developing myself in IT technologies, especially in the area of computer networking and security. For my  career advancement,I am now eager for the  transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
