@@ -42,7 +42,6 @@ I am passionate about learning and developing myself in IT technologies, especia
 
 ## Projects
 - Building Of An Organsiaton VPN Network
-- PacketGuard Analytics (NO GOING)
-
+- Phishing  Detention With Random Forest And Multi-layer-Percetron
   ## Playbook
   - Email Analysis For Phishing Activities
