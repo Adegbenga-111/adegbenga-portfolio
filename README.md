@@ -48,6 +48,8 @@ I am passionate about learning and developing myself in IT technologies, especia
 <img src="https://img.shields.io/badge/-(ISC)²%20CC-00FF00?&style=for-the-badge&logo=ISC2&logoColor=white" /> (IN VIEW) 
 </div>
 
+[![SoloLearn Certificate](https://api2.sololearn.com/v2/certificates/CC-IPNNU0NO/image/png?t=638720944292078200)](https://api2.sololearn.com/v2/certificates/CC-IPNNU0NO/image/png?t=638720944292078200)
+
 ## Projects
 - Building Of An Organsiaton VPN Network
 - Phishing  Detention With Random Forest And Multi-layer-Percetron
