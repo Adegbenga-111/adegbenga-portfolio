@@ -45,10 +45,8 @@ Motivated and detail-oriented IT enthusiast with a strong interest in Azure clou
 <img src="https://img.shields.io/badge/-Google_Colab -0078D4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
-### Certifications / 
+### Certifications 
 <div>
-<img src="https://img.shields.io/badge/-(ISC)²%20CC-00FF00?&style=for-the-badge&logo=ISC2&logoColor=white" /> (IN VIEW) 
-</div>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/AdelajaGbenga-5504/8531514A002C1025?sharingId=6DEA94CA79CF35E3"><img src="https://img.shields.io/badge/-microsoft-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
