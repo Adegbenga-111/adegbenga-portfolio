@@ -2,11 +2,11 @@
 # Hello, i'm ADELAJA OLUWAGBENGA AYOMIDE 
 <a href="https://www.linkedin.com/in/gbenga-adelaja-8a2173211"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Hello, I'm a Cybersecurity and IT Enthusiast that recently graduated, specializing in computer science.I am driven by a passion for protecting digital assets and ensuring the integrity of online environments, I also have a  profound interest in technology and a dedication in solving complex problems.
+Aspiring Cloud Security Specialist | Computer Science Graduate | AZ-900 | Fortinet FCF
 
+Recent computer science graduate with a strong passion for cybersecurity and cloud technologies. Certified in Microsoft Azure Fundamentals (AZ-900) and Fortinet Certified Fundamentals (FCF), with a focus on securing cloud-based environments. Dedicated to protecting digital assets and ensuring the security of cloud infrastructures. Known for a deep interest in emerging technologies and a commitment to solving complex problems. Eager to begin a career in cloud security, applying certifications and foundational knowledge to support secure, scalable, and resilient cloud solutions.
 ## Objective
-I am passionate about learning and developing myself in IT technologies, especially in the area of computer networking and security. For my  career advancement,I am now eager for the  transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
-
+Motivated and detail-oriented IT enthusiast with a strong interest in Azure cloud security, seeking an entry-level role to apply foundational knowledge of Microsoft Azure and cybersecurity principles. Eager to contribute to securing cloud environments while gaining hands-on experience and advancing expertise in this critical and evolving field.
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -47,9 +47,10 @@ I am passionate about learning and developing myself in IT technologies, especia
 <div>
 <img src="https://img.shields.io/badge/-(ISC)²%20CC-00FF00?&style=for-the-badge&logo=ISC2&logoColor=white" /> (IN VIEW) 
 </div>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/AdelajaGbenga-5504/8531514A002C1025?sharingId=6DEA94CA79CF35E3"><img src="https://img.shields.io/badge/-microsoft-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-[![SoloLearn Certificate](https://api2.sololearn.com/v2/certificates/CC-IPNNU0NO/image/png?t=638720944292078200)](https://api2.sololearn.com/v2/certificates/CC-IPNNU0NO/image/png?t=638720944292078200)
+
 
 ## Projects
 - Building Of An Organsiaton VPN Network
