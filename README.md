@@ -9,7 +9,7 @@ Recent computer science graduate with a strong passion for cybersecurity and clo
 Motivated and detail-oriented IT enthusiast with a strong interest in Azure cloud security, seeking an entry-level role to apply foundational knowledge of Microsoft Azure and cybersecurity principles. Eager to contribute to securing cloud environments while gaining hands-on experience and advancing expertise in this critical and evolving field.
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project / Certification     |
 |-----------------------------------------------|----------------------------|
 | Basic configuration of a VPN and VLAN network | <a href="https://github.com/Adegbenga-111/Building-An-Organization-VPN-Network-">Building-An-Organization-VPN-Network</a>|
 | Basic configuration of networking devices     | Building Of An Organsiaton VPN Network|
@@ -17,6 +17,8 @@ Motivated and detail-oriented IT enthusiast with a strong interest in Azure clou
 | Basic Email Analysis for malicious activities |  <a href="https://github.com/Adegbenga-111/Play-book-for-Email-Analysis-For-Phishing-Activities">Play-book-for-Email-Analysis</a>|
 | Creating machine learning model with python using tensor flow | <a href="https://colab.research.google.com/drive/1Thv1Lbqc6YPiby1zANItb18lcTXWY-qA?userstoinvite=taiwo.adelaja%40gmail.com&sharingaction=manageaccess&role=writer#scrollTo=Bc5PgZ83Fvsv"> Phishing  Detention With Random Forest And Multi-layer-Percetron </a>|
 | Creating neuron network with pytorch | Phishing  Detention With Random Forest And Multi-layer-Percetron|
+| Azure Architecture and Services – Understanding of core Azure components including compute, networking, storage, and identity services (e.g., Azure Virtual Machines, Azure Storage, Azure Active Directory).  | AZ-900  |
+|  Understanding of confidentiality, integrity, and availability (CIA triad), risk management, and basic threat detection. | Fortinet Certified Fundamentals (FCF)  |
   
 ## Tools
 ### Network
@@ -43,7 +45,7 @@ Motivated and detail-oriented IT enthusiast with a strong interest in Azure clou
 <img src="https://img.shields.io/badge/-Google_Colab -0078D4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
-### Certifications
+### Certifications / 
 <div>
 <img src="https://img.shields.io/badge/-(ISC)²%20CC-00FF00?&style=for-the-badge&logo=ISC2&logoColor=white" /> (IN VIEW) 
 </div>
