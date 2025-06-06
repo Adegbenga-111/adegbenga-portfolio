@@ -56,5 +56,6 @@ Motivated and detail-oriented IT enthusiast with a strong interest in Azure clou
 ## Projects
 - Building Of An Organsiaton VPN Network
 - Phishing  Detention With Random Forest And Multi-layer-Percetron
+- Web Server and WordPress Setup Using AWS EC2 
   ## Playbook
   - Email Analysis For Phishing Activities
