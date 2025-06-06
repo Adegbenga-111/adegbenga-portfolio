@@ -16,6 +16,7 @@ Motivated and detail-oriented IT enthusiast with a strong interest in Azure clou
 | Basic configuration of network end point      | Building Of An Organsiaton VPN Network|
 | Basic Email Analysis for malicious activities |  <a href="https://github.com/Adegbenga-111/Play-book-for-Email-Analysis-For-Phishing-Activities">Play-book-for-Email-Analysis</a>|
 | Creating machine learning model with python using tensor flow | <a href="https://colab.research.google.com/drive/1Thv1Lbqc6YPiby1zANItb18lcTXWY-qA?userstoinvite=taiwo.adelaja%40gmail.com&sharingaction=manageaccess&role=writer#scrollTo=Bc5PgZ83Fvsv"> Phishing  Detention With Random Forest And Multi-layer-Percetron </a>|
+| Web Server and WordPress Setup Using AWS EC2  | <a href="https://docs.google.com/document/d/1s7WLYdvzq05cD5c79Ox4Gzrhpw4BJ4I6sdWUC4HCd4o/edit?usp=sharing"> Web Server and WordPress Setup Using AWS EC2  </a>|
 | Creating neuron network with pytorch | Phishing  Detention With Random Forest And Multi-layer-Percetron|
 | Azure Architecture and Services – Understanding of core Azure components including compute, networking, storage, and identity services (e.g., Azure Virtual Machines, Azure Storage, Azure Active Directory).  | AZ-900  |
 |  Understanding of confidentiality, integrity, and availability (CIA triad), risk management, and basic threat detection. | Fortinet Certified Fundamentals (FCF)  |
