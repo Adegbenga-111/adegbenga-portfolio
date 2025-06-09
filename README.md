@@ -49,7 +49,8 @@ Motivated and detail-oriented IT enthusiast with a strong interest in Azure clou
 ### Certifications 
 <div>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/AdelajaGbenga-5504/8531514A002C1025?sharingId=6DEA94CA79CF35E3"><img src="https://img.shields.io/badge/-microsoft-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+<img src="https://img.shields.io/badge/-Fortinet Certified Fundamentals in Cybersecurity-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+</div>
 
 
 
