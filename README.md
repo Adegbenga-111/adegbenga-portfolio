@@ -2,7 +2,7 @@
 # Hello, i'm ADELAJA OLUWAGBENGA AYOMIDE 
 <a href="https://www.linkedin.com/in/gbenga-adelaja-8a2173211"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Aspiring Cloud Security Specialist | Computer Science Graduate | AZ-900 | Fortinet FCF
+Aspiring Cloud Security Specialist | Computer Science Graduate | AZ-900 | Fortinet FCF | Fortinet Certified Associate in Cybersecurity
 
 Recent computer science graduate with a strong passion for cybersecurity and cloud technologies. Certified in Microsoft Azure Fundamentals (AZ-900) and Fortinet Certified Fundamentals (FCF), with a focus on securing cloud-based environments. Dedicated to protecting digital assets and ensuring the security of cloud infrastructures. Known for a deep interest in emerging technologies and a commitment to solving complex problems. Eager to begin a career in cloud security, applying certifications and foundational knowledge to support secure, scalable, and resilient cloud solutions.
 ## Objective
