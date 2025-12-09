@@ -21,6 +21,7 @@ Motivated and detail-oriented IT enthusiast with a strong interest in Azure clou
 | Azure Architecture and Services – Understanding of core Azure components including compute, networking, storage, and identity services (e.g., Azure Virtual Machines, Azure Storage, Azure Active Directory).  | AZ-900  |
 |  Understanding of confidentiality, integrity, and availability (CIA triad), risk management, and basic threat detection. | Fortinet Certified Fundamentals (FCF)  |
 |  Configuring FortiGate firewall interfaces, routes, and policies,Implementing NAT for secure internet access,Understanding and applying core network protocols (TCP/IP, DNS, DHCP),Applying cybersecurity concepts in a simulated environment. |Fortinet Certified Associate in Cybersecurity/<a href="https://github.com/Adegbenga-111/Enabling-Secure-Internet-Access-via-FortiGate-Firewall-in-a-Simulated-Network/blob/main/README.md">Enabling Secure Internet Access Via Fortigate Firewall In A Simulated Network</a> |
+|  Cloud storage hosting ,CDN, security, global distribution  | <a href="https://github.com/Adegbenga-111/Creating-a-Static-Website-with-S3-Hosting-and-Cloudfront-/blob/main/README.md"> Creating a Static Website With S3 Hosting And CloudFront 
 
 ### Network
 <div>
