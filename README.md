@@ -21,7 +21,12 @@ Motivated and detail-oriented IT enthusiast with a strong interest in Azure clou
 | Azure Architecture and Services – Understanding of core Azure components including compute, networking, storage, and identity services (e.g., Azure Virtual Machines, Azure Storage, Azure Active Directory).  | AZ-900  |
 |  Understanding of confidentiality, integrity, and availability (CIA triad), risk management, and basic threat detection. | Fortinet Certified Fundamentals (FCF)  |
 |  Configuring FortiGate firewall interfaces, routes, and policies,Implementing NAT for secure internet access,Understanding and applying core network protocols (TCP/IP, DNS, DHCP),Applying cybersecurity concepts in a simulated environment. |Fortinet Certified Associate in Cybersecurity/<a href="https://github.com/Adegbenga-111/Enabling-Secure-Internet-Access-via-FortiGate-Firewall-in-a-Simulated-Network/blob/main/README.md">Enabling Secure Internet Access Via Fortigate Firewall In A Simulated Network</a> |
-|  Cloud storage hosting ,CDN, security, global distribution  | <a href="https://github.com/Adegbenga-111/Creating-a-Static-Website-with-S3-Hosting-and-Cloudfront-/blob/main/README.md"> Creating a Static Website With S3 Hosting And CloudFront 
+|  Cloud storage hosting ,CDN, security, global distribution  | <a href="https://github.com/Adegbenga-111/Creating-a-Static-Website-with-S3-Hosting-and-Cloudfront-/blob/main/README.md"> Creating a Static Website With S3 Hosting And CloudFront |
+| AWS VPC Networking : Designed a custom VPC with structured IP addressing (CIDR planning) ,Created and configured public and private subnets, Attached and configured Internet Gateway (IGW) and NAT Gateway, Built and associated route tables for correct traffic flow. |  <a href="https://github.com/Adegbenga-111/AWS-Public-Private-Deployment/blob/main/README.md"> AWS-Public-Private-Deployment | 
+|Secure EC2 Deployment :Deployed EC2 instances in both public and private subnets, Configured security groups following the principle of least privilege, Implemented bastion host architecture for controlled access to private instances. |  AWS-Public-Private-Deployment | 
+| Network Security Best Practices : Restricted SSH access to only the bastion host, Completely isolated the private EC2 from the public internet, Ensured outbound internet traffic from private subnet goes through NAT, Used SG-to-SG references instead of raw IPs for better security. | AWS-Public-Private-Deployment |
+| Troubleshooting & Cloud Debugging : Diagnosed “permission denied” SSH issues, Resolved connectivity failures between resources, Validated routing paths and subnet reachability, Used logs and command-line tools to confirm successful connectivity |  AWS-Public-Private-Deployment |
+
 
 ### Network
 <div>
