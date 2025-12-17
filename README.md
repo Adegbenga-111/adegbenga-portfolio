@@ -26,6 +26,7 @@ Motivated and detail-oriented IT enthusiast with a strong interest in Azure clou
 |Secure EC2 Deployment :Deployed EC2 instances in both public and private subnets, Configured security groups following the principle of least privilege, Implemented bastion host architecture for controlled access to private instances. |  AWS-Public-Private-Deployment | 
 | Network Security Best Practices : Restricted SSH access to only the bastion host, Completely isolated the private EC2 from the public internet, Ensured outbound internet traffic from private subnet goes through NAT, Used SG-to-SG references instead of raw IPs for better security. | AWS-Public-Private-Deployment |
 | Troubleshooting & Cloud Debugging : Diagnosed “permission denied” SSH issues, Resolved connectivity failures between resources, Validated routing paths and subnet reachability, Used logs and command-line tools to confirm successful connectivity |  AWS-Public-Private-Deployment |
+| Using IAM roles with EC2 Instance Metadata Service (IMDS),Implementing least-privilege access for DynamoDB operations,Deploying a PHP web application on an Apache web server (Ubuntu), Using AWS SDK for PHP to interact with AWS services programmatically, Designing a decoupled web and database architecture ,Understanding stateless application design 
 
 
 ### Network
@@ -64,6 +65,8 @@ Motivated and detail-oriented IT enthusiast with a strong interest in Azure clou
 ## Projects
 - Building Of An Organsiaton VPN Network
 - Phishing  Detention With Random Forest And Multi-layer-Percetron
-- Web Server and WordPress Setup Using AWS EC2 
+- Web Server and WordPress Setup Using AWS EC2
+- Creating a Static Website with S3 Hosting and Cloudfront
+- AWS Public Private Deployment
   ## Playbook
   - Email Analysis For Phishing Activities
