@@ -61,7 +61,7 @@ Designed and deployed a **production-style 3-tier web application architecture**
 - Enforced HTTPS end-to-end using ACM and ALB
 - Applied real-world troubleshooting and validation techniques
 
-[View Project](https://github.com/Adegbenga-111/Production-Grade-3-Tier-Web-Application-on-AWS)
+[View Project](https://github.com/Adegbenga-111/Production-Grade-3-Tier-Web-Application-on-AWS-using-EC2)
 
 ---
 
