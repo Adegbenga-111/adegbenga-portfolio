@@ -69,7 +69,7 @@ Designed and implemented a **production-style, multi-container web application**
 - Persistent data storage using Docker volumes
 - Troubleshooting startup order, networking, and configuration issues
 
-[View Project](https://github.com/Adegbenga-111/your-docker-project-repo)
+[View Project](https://github.com/Adegbenga-111/Multi-Container-Web-Application)
 
 ### 🚀 Production-Grade 3-Tier Web Application on AWS
 
