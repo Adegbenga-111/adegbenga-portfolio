@@ -41,6 +41,36 @@ I build real-world, production-style projects that simulate operational responsi
 
 ## Featured Projects
 
+### 🐳 Multi-Container Web Application with Docker & Docker Compose (DevOps – Phase 4 Project 1)
+
+Designed and implemented a **production-style, multi-container web application** using Docker and Docker Compose, focusing on service orchestration, container networking, and real-world troubleshooting.
+
+**Architecture Overview**
+- Nginx frontend container serving static HTML and CSS
+- PHP 8.2 (Apache) backend API container
+- MySQL 8.0 database container with persistent storage
+- phpMyAdmin container for database administration
+- Custom Docker bridge network for secure service-to-service communication
+- Nginx reverse proxy routing `/api` requests to the backend service
+
+**Key Outcomes**
+- Orchestrated multiple services using Docker Compose with a shared network
+- Implemented reverse proxying to decouple frontend and backend services
+- Solved database startup race conditions using retry logic
+- Debugged container DNS and service discovery issues
+- Resolved YAML formatting, path resolution, and environment variable issues
+- Applied production-style practices such as not exposing database ports to the host
+
+**DevOps Concepts Demonstrated**
+- Containerization and multi-service orchestration
+- Service discovery using Docker DNS
+- Environment variable management with `.env`
+- Reverse proxy configuration using Nginx
+- Persistent data storage using Docker volumes
+- Troubleshooting startup order, networking, and configuration issues
+
+[View Project](https://github.com/Adegbenga-111/your-docker-project-repo)
+
 ### 🚀 Production-Grade 3-Tier Web Application on AWS
 
 Designed and deployed a **production-style 3-tier web application architecture** with strict network isolation, HTTPS security, and monitoring.
