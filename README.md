@@ -170,6 +170,15 @@ Simulated an enterprise network secured using FortiGate firewall policies, NAT c
 ### Development & Research
 - Google Colab
 
+### Cloud Computing 
+- Microsoft Azure
+- AWS
+
+### containerization platform
+- Docker Compose
+- Doker 
+  
+
 ---
 
 ## Certifications
