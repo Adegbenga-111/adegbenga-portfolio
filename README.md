@@ -186,6 +186,7 @@ Simulated an enterprise network secured using FortiGate firewall policies, NAT c
 - Microsoft Azure Fundamentals (AZ-900)
 - Fortinet Certified Fundamentals in Cybersecurity (FCF)
 - Fortinet Certified Associate in Cybersecurity (FCA)
+- ISC2  Certified in Cybersecurity (ISC2 CC)
 
 ---
 
