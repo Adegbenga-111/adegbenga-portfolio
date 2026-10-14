@@ -23,6 +23,7 @@ I build real-world, production-style projects that simulate operational responsi
 - Secure public and private subnet design
 - NAT gateway and bastion-style access patterns
 - Load-balanced and decoupled application architectures
+- Docker and Docker compose
 
 ### Security & Networking
 - IAM least-privilege access control
@@ -36,10 +37,37 @@ I build real-world, production-style projects that simulate operational responsi
 - SSH, permission, and connectivity troubleshooting
 - Network routing and database access diagnosis
 - Log-based investigation and validation
+- Configuring prometheus and grafana
 
 ---
 
 ## Featured Projects
+
+### Kubernetes Task Manager — Containerization & Infrastructure Monitoring
+A multi-container Task Manager application built to demonstrate containerization, service orchestration, infrastructure monitoring, and the path from Docker Compose to Kubernetes.
+
+**Architecture Overview**
+- **Frontend:** Nginx serves the compiled React application to the browser.
+- **Backend:** FastAPI exposes REST endpoints for creating, retrieving, updating, and deleting tasks, plus a `/metrics` endpoint for Prometheus.
+- **Database:** MongoDB stores task records and persists them using a Docker volume.
+-  **Database administration:** Mongo Express provides a web interface for inspecting MongoDB.
+-  **Metrics collection:** cAdvisor collects container resource usage, and the MongoDB exporter exposes database statistics.
+-  **Metrics storage:** Prometheus scrapes the configured targets and stores their metrics.
+-  **Visualization:** Grafana connects to Prometheus and displays monitoring dashboards.
+
+
+**Key Outcomes**
+- Multi-stage Docker builds and understanding the Docker build context.
+- Docker networking and service discovery.
+- Docker Compose orchestration and dependency health checks.
+- Persistent storage using Docker volumes.
+- REST API deployment, CORS, and database integration.
+- Infrastructure and application monitoring with cAdvisor, FastAPI instrumentation, exporters, and Prometheus.
+- Grafana dashboards and metric queries.
+- Troubleshooting container lifecycle, credentials, and service connectivity.
+- Diagnosing resource limits on a Docker Desktop host.
+- Preparing containerized applications for Kubernetes.
+
 
 ### 🐳 Multi-Container Web Application with Docker & Docker Compose (DevOps – Phase 4 Project 1)
 
@@ -52,6 +80,15 @@ Designed and implemented a **production-style, multi-container web application**
 - phpMyAdmin container for database administration
 - Custom Docker bridge network for secure service-to-service communication
 - Nginx reverse proxy routing `/api` requests to the backend service
+
+  **DevOps Concepts Demonstrated**
+- Containerization and multi-service orchestration
+- Metrics monitoring
+- Declarative configuration
+- Configuration management
+- Documentation as a runbook
+
+[View Project](https://github.com/Adegbenga-111/Adegbenga-111-Multi-Container-App-with-Infrastructure-Monitoring)
 
 **Key Outcomes**
 - Orchestrated multiple services using Docker Compose with a shared network
